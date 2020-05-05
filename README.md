@@ -30,6 +30,6 @@ Used Validations
 * Lastname  :- lastname cannot be empty and can not be numeric.
 * Gender    :- gender cannot be empty.
 * Email     :- email cannot be empty and it should be valid email.
-* NIC       :- nic cannot be empty and nic should contain 10 digits and last should be "V".
+* NIC       :- nic cannot be empty and nic should contain 10 digits and last letter should be "v" or "V".
 * Birthday  :- birthday can not be empty.
 * Phone no  :- phone no should be contain 10 digits only and it should be numeric.
