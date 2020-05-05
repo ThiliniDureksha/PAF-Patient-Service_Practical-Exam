@@ -27,9 +27,15 @@ Used Validations
 -----------------
 
 1.Firstname :- firstname cannot be empty and can not be numeric.
+
 2.Lastname  :- lastname cannot be empty and can not be numeric.
+
 3.Gender    :- gender cannot be empty.
+
 4.Email     :- email cannot be empty and it should be valid email.
+
 5.NIC       :- nic cannot be empty and nic should contain 10 digits and last should be "V".
+
 6.Birthday  :- birthday can not be empty.
+
 7.Phone no  :- phone no should be contain 10 digits only and it should be numeric.
