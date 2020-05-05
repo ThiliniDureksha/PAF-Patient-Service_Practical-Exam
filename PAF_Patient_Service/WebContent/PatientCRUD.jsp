@@ -118,7 +118,7 @@
 							<div id="divItemsGrid1" class="table table-striped" align="center">
 							 <%
 							 PatientRepository patientRepository = new PatientRepository();
-							 //out.print(patientRepository.getPatients());
+							 out.print(patientRepository.getPatients());
 							 %>
 							
     						</div>
